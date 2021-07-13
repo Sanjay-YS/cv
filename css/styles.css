@@ -1,6 +1,9 @@
 body {
   background-color: #eaf6f6;
 }
+.photo{
+  width:30px;
+}
 h1 {
   color: #66bfbf;
 }
